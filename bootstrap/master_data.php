@@ -6,7 +6,7 @@ define('VIDEOCHAT_ERROR_SESSION_TOKEN', 2);
 define('VIDEOCHAT_ERROR_API_KEY',       3);
 define('VIDEOCHAT_ERROR_API_SEC',       4);
 
-define('VIDEOCHAT_EXPIRED_DURATION',    600);
+define('VIDEOCHAT_EXPIRED_DURATION',    18000);
 define('ADDITIONAL_TIME',               300);
 ////////////////////////////////////////////////////////////////////////////
 
