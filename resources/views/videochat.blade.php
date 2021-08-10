@@ -7,14 +7,13 @@
     display:block!important;
 }
 
-@media (max-width: 992px) {
+@media (max-width: 991px) {
     .remote-stream {
         background-color: #111111; 
         position: absolute; 
         width:100%;
         top:69px;
         height:100vh;
-        display:none!important;
     }
     .sp-hide{
         display:none!important;
